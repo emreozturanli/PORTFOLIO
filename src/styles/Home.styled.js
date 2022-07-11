@@ -11,14 +11,27 @@ const StyledHome = styled.main`
 
 export const Title = styled.section`
     h3{
-        font-size: 10rem;
+        font-size: 7rem;
         padding:2rem;
     }
+
+    @media (min-width:600px) {
+      h3{
+         font-size: 10rem;
+        }
+    }
+
 `;
 export const Text = styled.section`
     p{
       font-size:1.5rem;
-      line-height:2.5rem;
+      line-height:2rem;
+    }
+
+    @media (min-width:600px) {
+      p{
+        line-height:2.5rem;
+      }
     }
 `;
 

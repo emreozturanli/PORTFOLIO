@@ -11,7 +11,7 @@ const StyledAbout = styled.article`
   }
 
   p{
-    text-indent:1rem;
+    text-align:center;
     font-size:1.2rem;
     margin-bottom:1rem;
     line-height:2rem;
