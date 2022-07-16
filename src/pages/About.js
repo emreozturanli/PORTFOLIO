@@ -15,7 +15,9 @@ const About = () => {
             <li>HTML</li>
             <li>SASS</li>
             <li>Styled Components</li>
+            <li>Material UI</li>
             <li>Python</li>
+            <li>Firebase</li>
             <li>SQL</li>
             <li>Postman</li>
             <li>Jira</li>

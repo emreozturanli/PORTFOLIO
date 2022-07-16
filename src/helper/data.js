@@ -2,6 +2,15 @@
 
 export const data = [
     {
+        id: 'r21',
+        name: 'Movie App Firebase',
+        image:'movie-app-firebase',
+        gif: '',
+        tool:'react',
+        link:'https://movie-app-react-firebase.vercel.app/',
+        source: 'https://github.com/emreozturanli/Movie-App-React-Firebase',
+    },
+    {
         id: 'r1',
         name: 'Recipe App',
         image:'recipe-app',
@@ -180,6 +189,15 @@ export const data = [
         tool:'react',
         link:'https://emreozturanli.github.io/Tours-React/',
         source: 'https://github.com/emreozturanli/Tours-React',
+    },
+    {
+        id: 'r22',
+        name: 'Random User',
+        image:'random-user',
+        gif: '',
+        tool:'react',
+        link:'https://random-user-react-mindset.vercel.app/',
+        source: 'https://github.com/emreozturanli/Random-User-React',
     },
     {
         id: 'j1',
