@@ -2,6 +2,24 @@
 
 export const data = [
     {
+        id: 'r24',
+        name: 'Boolean Blog',
+        image:'boolean-blog',
+        gif: '',
+        tool:'react',
+        link:'https://boolean-blog.vercel.app/',
+        source: 'https://github.com/emreozturanli/Boolean-Blog',
+    },
+    {
+        id: 'r23',
+        name: 'Contact App Firebase',
+        image:'contact-app-firebase',
+        gif: '',
+        tool:'react',
+        link:'https://contact-app-firebase.vercel.app/',
+        source: 'https://github.com/emreozturanli/contact-app-firebase',
+    },
+    {
         id: 'r21',
         name: 'Movie App Firebase',
         image:'movie-app-firebase',
